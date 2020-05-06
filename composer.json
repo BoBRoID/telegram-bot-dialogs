@@ -19,7 +19,7 @@
   "require": {
     "php": ">=5.5.9",
     "illuminate/support": "^5.2",
-    "irazasyed/telegram-bot-sdk": "^2.0",
+    "irazasyed/telegram-bot-sdk": "dev-develop",
     "symfony/yaml": "3.*",
     "predis/predis": "~1.0"
   },
